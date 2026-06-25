@@ -1,3 +1,3 @@
 Adding a file from Git to GitHub
 Adding a new line
-
+This is a test. 
